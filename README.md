@@ -12,7 +12,7 @@ At the same time, we will try a 'parade' against diff stall and heavy pump and d
 
 Three ways but more after:
 
-Deccreasing reward/Diff.
-Sinusoidal reward ans Random (?) reward.
+Decreasing Reward/Diff. 
+Sinusoidal reward and Random (?) one.  
 Bank features enhancement.
 
